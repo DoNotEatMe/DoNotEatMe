@@ -4,6 +4,8 @@ Since 2017, I've been working in the gaming industry. I started in customer supp
 
 In 2023, I made the decision to transition my career to become a UE C++ developer, a dream I've had since I was younger. Here, I'm compiling test cases I've created myself to showcase my experience in C++ and UE.
 
+
+![](https://hit.yhype.me/github/profile?user_id=12993928)
 <!--
 **DoNotEatMe/DoNotEatMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
